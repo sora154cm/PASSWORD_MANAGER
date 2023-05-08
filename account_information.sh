@@ -63,7 +63,7 @@ echo "パスワードマネージャーへようこそ！"
 #サービス名入力の呼び出し
 service_information
 #ユーザー名入力の呼び出し
-service_information
+user_information
 #パスワード入力の呼び出し
 password_information
 
